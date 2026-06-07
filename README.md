@@ -37,6 +37,9 @@ A curated collection of LeetCode problems solved in C++ with categorized topics,
 | 3 | 962 | Maximum Width Ramp | Medium | Suffix Maximum + Two Pointers | O(n) | O(n) | [Code](./Arrays/962_Maximum_Width_Ramp.cpp) | 2026-05-01 |
 | 4 | 27 | Remove Element | Easy | Two Pointers + Swapping | O(n) | O(1) | [Code](./Arrays/27_Remove_Element.cpp) | 2026-05-02 |
 | 5 | 189 | Rotate Array | Medium | Extra Array Simulation | O(n) | O(n) | [Code](./Arrays/189_Rotate_Array.cpp) | 2026-05-08 |
+| 6 | 724 | Find Pivot Index | Easy | Prefix Sum Arrays | O(n) | O(n) | [Code](./Arrays/724_Find_Pivot_Index.cpp) | 2026-06-06 |
+| 7 | 1991 | Find the Middle Index in Array | Easy | Prefix Sum Arrays | O(n) | O(n) | [Code](./Arrays/1991_Find_the_Middle_Index_in_Array.cpp) | 2026-06-06 |
+| 8 | 1013 | Partition Array Into Three Parts With Equal Sum | Easy | Prefix Sum + Greedy Partitioning | O(n) | O(1) | [Code](./Arrays/1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.cpp) | 2026-06-06 |
 
 ---
 
